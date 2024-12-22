@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "migrations": "^1.0.3",
-    "truffle-assertions": "^0.9.2"
+    "truffle-assertions": "^0.9.2",
+    "web3": "^4.16.0"
   }
 }
